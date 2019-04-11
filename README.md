@@ -1,15 +1,24 @@
 # Smart-Helmet 
 
-这是一款狂拽酷炫吊炸天  
-的智能头盔⛑！  
+这是一款基于arduino ➕ 传感器   
+狂拽酷炫吊炸天的智能头盔⛑！  
 
 ## 项目的诞生👀  
 
-给外卖猫换上一个智能头盔！          
+给外卖猫换上一个智能头盔！  
+这不仅仅是一个普通的头盔！  
+预实现的功能请往下看:arrow_down:
 
 ![饿了么图片](https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1554992607&di=b48d3b6d543e51a47e2abd451210453c&src=http://b-ssl.duitang.com/uploads/item/201804/20/20180420111710_eVhah.jpeg "饿了么图片")	
 
 
+
+## 实现功能
+- [ ] 功能一 通过:sunglasses:左右转向，开启转向灯:flashlight:，头部摆正位置后灯光恢复。
+- [ ] 任务二 猛烈撞击或声控开始闪烁灯光:rotating_light:，并通过语音复位灯光。
+- [ ] 任务二 GPS实时监控位置发送给手机。
+- [ ] 任务二 蓝牙连接手机进行通话，连接蓝牙后可语音拨打电话或接听电话:telephone:。
+- [ ] 任务二 通过光线传感器实现夜间:bridge_at_night:开启示廓灯。
 
 ## 零件清单  
 
