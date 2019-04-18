@@ -17,8 +17,8 @@
 - [x] 功能一 通过:sunglasses:左右转向，开启转向灯:flashlight:，头部摆正位置后灯光恢复。
 - [ ] 任务二 猛烈撞击或声控开始闪烁灯光:rotating_light:，并通过语音复位灯光。
 任务二 GPS实时监控位置发送给手机。
-- [x] 任务二 蓝牙连接手机进行通话，连接蓝牙后可语音拨打电话或接听电话:telephone:。
-- [x] 任务二 通过光线传感器实现夜间:bridge_at_night:开启示廓灯。
+- [x] 任务三 蓝牙连接手机进行通话，连接蓝牙后可语音拨打电话或接听电话:telephone:。
+- [x] 任务四 通过光线传感器实现夜间:bridge_at_night:开启示廓灯。
 
 ## 零件清单  
 
@@ -31,7 +31,8 @@
 | GPS mini 定位传感器 | https://detail.tmall.com/item.htm?id=528795127931&spm=a1z09.2.0.0.63fb2e8drbooe4&_u=bpc3msv55c5        |   
 | wifi 模块          | https://detail.tmall.com/item.htm?id=41299074894&spm=a1z09.2.0.0.63fb2e8drbooe4&_u=bpc3msvbbac/ |
 | 加速度陀螺仪传感器  | https://detail.tmall.com/item.htm?id=40104278575&spm=a1z09.2.0.0.63fb2e8drbooe4&_u=bpc3msvdf15        |  
-| 蓝牙耳机           | none        |   
+| 蓝牙耳机           | none        |  
+| 蓝牙模块         | none        |  
 
 
 
